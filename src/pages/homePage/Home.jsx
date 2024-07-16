@@ -1,10 +1,13 @@
 import Banner from "./shared/Banner";
+import HomeCategory from "./shared/HomeCategory";
 
 const Home = () => {
     return (
-        <div>
+        <div className="space-y-20">
             {/* banner */}
             <Banner />
+            {/* home categories */}
+            <HomeCategory />
         </div>
     );
 };

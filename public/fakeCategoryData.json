@@ -1,0 +1,22 @@
+[
+  {
+    "image": "https://i.ibb.co/tmBqbxP/EFT-payment-header.webp",
+    "name": "Payment",
+    "description": "Making Payment is now much easier through the bKash App"
+  },
+  {
+    "image": "https://i.ibb.co/5TLbpVP/cfpb-money-transfers-portal-300x300-original.png",
+    "name": "Send Money",
+    "description": "Send money from bKash to any number instantly"
+  },
+  {
+    "image": "https://i.ibb.co/rvFzGXc/7670043.webp",
+    "name": "Cash Out",
+    "description": "Withdraw cash anytime from the largest Agent and ATM network"
+  },
+  {
+    "image": "https://i.ibb.co/c1RCRj2/mobile-recharge-api1705756603.png",
+    "name": "Mobile Recharge",
+    "description": "Recharge any number and get the best offer"
+  }
+]
