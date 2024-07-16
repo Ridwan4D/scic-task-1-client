@@ -1,3 +1,4 @@
+import { Outlet } from "react-router-dom";
 
 const MainLayout = () => {
     return (
@@ -6,10 +7,10 @@ const MainLayout = () => {
 
             {/* outlets */}
             <div>
-                
+                <Outlet />
             </div>
             {/* footer */}
-            
+
         </div>
     );
 };
